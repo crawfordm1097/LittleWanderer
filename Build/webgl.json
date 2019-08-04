@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "LittleWanderer",
+"productName": "LittleWandererFinal",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
